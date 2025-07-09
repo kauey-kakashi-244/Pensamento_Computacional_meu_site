@@ -1,6 +1,6 @@
 body {
 
-background-color: rgba(30, 29, 29, 0.915);
+background-color: rgba(20, 20, 20, 0.915);
 
 color: rgba(191, 204, 12, 0.911);
 
@@ -10,16 +10,16 @@ margin: 0px;
 }
 
 header {
-    font-size: 60px;
+    font-size: 80px;
     text-align: center;
    
     border-bottom: solid 10px red;
-
+https://github.com/kauey-kakashi-244/Pensamento_Computacional_meu_site
    /* border-bottom:dashed 8px #8B008B; */
 
     /* margin: 30px; */
     padding: 30px;
-
+https://github.com/kauey-kakashi-244/Pensamento_Computacional_meu_site
 }
 
 h1 {
